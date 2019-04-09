@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9D61FB3F-A31D-4ADE-B347-C8514D49CB3B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "486EA967-2B27-46A4-9DB6-6FAC8670CA02",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6B3D6834-220B-4391-AF52-424C53E55C2F",
+    "height": 16,
+    "width": 240,
+    "x": 72,
+    "y": 512
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/checkbox/unchecked",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C3650F7A-9712-4884-B917-E589E617D7D0",
+      "overrideName": "81641272-7E97-4A8D-94D6-C04AF62B9C4D_stringValue",
+      "value": "Bridgetown"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B5214C9E-BDA2-4E92-B3E8-9B108A140DE7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AEFB5A29-CA72-4AD8-986C-9AE44667457E",
+  "verticalSpacing": 0
+}

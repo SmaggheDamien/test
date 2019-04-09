@@ -1,0 +1,114 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7203A534-0E6B-433C-9C0F-0418DE03117E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 3711,
+  "clippingMaskMode": 0,
+  "do_objectID": "921BDD66-656D-4332-A846-9685DE6BC8DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "933EC3D4-B70E-4D6E-9D1A-D3F6207620ED",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C0C2DC5-BCCF-44D1-9439-63DBD0877F1F",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": -109
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "59E57875-4866-4897-BBBD-A69007B7A2C0",
+    "gridSize": 8,
+    "isEnabled": true,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0FB245A8-69FB-451D-934C-42FB0869CC7D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "13A27AD9-E60F-428F-B1C8-5A3D7BAA0ED0"
+    },
+    {
+      "class": "shapePath",
+      "id": "09BD2C79-6CBE-40FD-88F2-0EF4E3AEAC46"
+    }
+  ],
+  "name": "icons/master-border/cross-close",
+  "nameIsFixed": true,
+  "overrideProperties": [
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FDCD5211-D42C-466A-BB46-CF926033B12D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4E4EEA77-5568-4867-BBDA-8A56827A6E94",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8FEF72E6-D1E6-4D76-AE84-F9F8557F5E28",
+    "guides": [
+    ]
+  }
+}

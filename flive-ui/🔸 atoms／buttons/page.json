@@ -1,0 +1,117 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "12663816-E716-4126-891F-85307253BBD4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": true,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -550,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "8F95B09B-3DB5-4873-8572-AC1FB0D28D1E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E1A0DFED-742F-4109-B09F-7EE166A20184"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C1D9B101-CDC6-4A76-BA8A-99A25BC6D6C5"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2A3A51D4-19C4-4E4F-A5B0-AD571A81CEBE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6265E8BD-5553-45A9-B6B5-90B1C558941A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8C36A363-12B7-4CF0-8CFC-C3E6C05C3B5F"
+    },
+    {
+      "class": "text",
+      "id": "F007ED54-4DF3-42E0-9DFD-CAFB709A6E1C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9D97A5C0-9CC0-4A65-BCF8-F3B4CE2B2561"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9A484C87-27CC-4AE3-B76A-E1D03C301C15"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9EF393B8-0556-4B36-B3F3-7A5F2BC2A950"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "633B32E0-47CF-4BFF-BB03-64522A17B621"
+    }
+  ],
+  "name": "🔸 atoms/buttons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -442,
+    "guides": [
+    ]
+  }
+}

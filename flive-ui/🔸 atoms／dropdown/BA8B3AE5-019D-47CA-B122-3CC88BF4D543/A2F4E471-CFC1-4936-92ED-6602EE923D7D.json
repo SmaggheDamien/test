@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A2F4E471-CFC1-4936-92ED-6602EE923D7D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "603EE743-8D33-4B3B-9690-58D48D609A58",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E03F2B0B-F82D-4649-8F97-8419190BB2B4",
+    "height": 16,
+    "width": 240,
+    "x": 72,
+    "y": 480
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/checkbox/unchecked",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A3ABBC8D-084C-4B2D-844E-5E3885E6A1CB",
+      "overrideName": "81641272-7E97-4A8D-94D6-C04AF62B9C4D_stringValue",
+      "value": "Dongguan"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5BBF3513-F5BA-4832-AA4E-BE5EEE26242C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AEFB5A29-CA72-4AD8-986C-9AE44667457E",
+  "verticalSpacing": 0
+}

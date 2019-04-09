@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B5D7FBD-7D5D-4B77-A2DB-4DBBE090CD21",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "78C576C5-0451-4EEF-A830-209EEFE46366",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4671BBA3-D23F-440F-A8F4-548B209ECA16",
+    "height": 16,
+    "width": 240,
+    "x": 72,
+    "y": 976
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/checkbox/unchecked",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "42EB8551-940F-443E-8474-E36A6A700EB4",
+      "overrideName": "C8803D95-B867-43CC-AD2F-25E99180C301_stringValue",
+      "value": "Madison"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CEE28A2A-8FA6-4014-AFEA-FAFCEE2382D0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C5256EBC-8B29-4963-A157-C034023B4679",
+  "verticalSpacing": 0
+}

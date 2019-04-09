@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CE12733B-8D9D-48F6-9878-10E6D5364EF4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "41AF611E-1CD5-4EED-A460-BE29BD18D7F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E4F3BE85-0F03-44F3-9E32-322302BA6B04",
+    "height": 16,
+    "width": 240,
+    "x": 72,
+    "y": 768
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/checkbox/unchecked",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C3650F7A-9712-4884-B917-E589E617D7D0",
+      "overrideName": "81641272-7E97-4A8D-94D6-C04AF62B9C4D_stringValue",
+      "value": "Marseille"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C9B9A5F3-67B8-4D68-944A-1D41C5B3EAA7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AEFB5A29-CA72-4AD8-986C-9AE44667457E",
+  "verticalSpacing": 0
+}

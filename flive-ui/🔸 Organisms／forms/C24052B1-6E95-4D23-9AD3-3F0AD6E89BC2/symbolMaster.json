@@ -1,0 +1,156 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E857E441-2416-44A7-BE00-71F4737B992A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 28807,
+  "clippingMaskMode": 0,
+  "do_objectID": "C24052B1-6E95-4D23-9AD3-3F0AD6E89BC2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "56244494-85A8-44CA-A040-00E778870CC0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "576B00C6-364C-4E7C-9288-C10E0E6CABD9",
+    "height": 368,
+    "width": 456,
+    "x": 963,
+    "y": 876
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "882C6C42-CA95-4DF9-8ADA-2A039AB19F0C",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 3
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0BDAE4B2-B3B5-4EE6-9CA1-C58A67D99F36",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "75B3D9EC-E2CA-49A2-A32F-1E3453485FEA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2F9F53F7-806E-4F24-8234-43734955BECC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F94B1586-2B92-4678-AB8A-5DF037B1CBCC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3FDCBEBA-89AF-4A37-80F8-73F20B85658C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F7842A2-C1C0-49AD-89E0-5FE83DD72C1E"
+    },
+    {
+      "class": "text",
+      "id": "7DC3CCD0-D8C6-4DC8-9B63-9B2B9FF4BB91"
+    }
+  ],
+  "name": "form/file-input-4-images",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "3FDCBEBA-89AF-4A37-80F8-73F20B85658C_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "5F7842A2-C1C0-49AD-89E0-5FE83DD72C1E_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "F94B1586-2B92-4678-AB8A-5DF037B1CBCC_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "75B3D9EC-E2CA-49A2-A32F-1E3453485FEA_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7DC3CCD0-D8C6-4DC8-9B63-9B2B9FF4BB91_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "7DC3CCD0-D8C6-4DC8-9B63-9B2B9FF4BB91_stringValue"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "2F9F53F7-806E-4F24-8234-43734955BECC_symbolID"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0A30B0D5-A819-4477-BCA4-A67A9D1CA11F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6DB60F5A-C1DB-45F4-950E-C079F2519924",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E0644894-1EE0-44D5-ADB0-2969776BE212",
+    "guides": [
+    ]
+  }
+}

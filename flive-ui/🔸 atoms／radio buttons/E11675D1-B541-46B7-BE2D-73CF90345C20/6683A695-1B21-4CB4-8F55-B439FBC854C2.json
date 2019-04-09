@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6683A695-1B21-4CB4-8F55-B439FBC854C2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6684F0A2-BF4F-4564-8B31-3239F4869608",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FAC0A0A0-8DF1-4C98-85B0-BCAB21980BF9",
+    "height": 72,
+    "width": 192,
+    "x": 48,
+    "y": 384
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/input/checkbox copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0BE4F822-31C8-41FE-9DC0-96B9DA419CEC",
+      "overrideName": "B03ED66A-6CAE-45DE-9B53-7DEBC35CD08E/81641272-7E97-4A8D-94D6-C04AF62B9C4D_stringValue",
+      "value": "Landscape"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1A943F05-AC60-44AC-B289-24292A275AD8",
+      "overrideName": "269908B4-0570-459F-B803-1D286A46758F_stringValue",
+      "value": "Orientation"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E7A70A58-15DD-4C4D-A72E-F5818670C2C1",
+      "overrideName": "8CD07120-DB85-4762-BB21-346A00F5F876_textStyle",
+      "value": "3740A968-9718-442D-B3C9-E21DBBAF8796"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DD68FFF5-DD41-4798-B59F-64AA702DE929",
+      "overrideName": "8CD07120-DB85-4762-BB21-346A00F5F876_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "94CC8ED3-54B0-44E5-A185-B677A30A6297",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "03D1A55C-EEA9-444B-BF1D-861E625AF83A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

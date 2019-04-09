@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D0E1459A-857C-4624-8C9B-F73679B18DE3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "58EB9A80-8345-4824-8AA8-9BB6152DDAC4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "80DD02F7-236B-4587-B081-FF2C5D1F57DD",
+    "height": 16,
+    "width": 384,
+    "x": 48,
+    "y": 336
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Item 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "81641272-7E97-4A8D-94D6-C04AF62B9C4D_stringValue",
+      "value": "Banana"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6DB56EA8-EB54-4CC6-81B8-1FF82387AF2D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AEFB5A29-CA72-4AD8-986C-9AE44667457E",
+  "verticalSpacing": 0
+}

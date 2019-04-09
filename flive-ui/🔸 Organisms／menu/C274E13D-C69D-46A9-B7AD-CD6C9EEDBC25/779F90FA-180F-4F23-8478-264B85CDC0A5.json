@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "779F90FA-180F-4F23-8478-264B85CDC0A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "64E7E644-ADB5-4D50-AF47-61DA11092AEC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B607B7D-0647-4795-8335-E59CD0D1D135",
+    "height": 56,
+    "width": 56,
+    "x": 288,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "menu-item/desktop/link copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF4EFD2C-074D-4E3D-8524-44358CE44416",
+      "overrideName": "E6285938-B1E0-4954-A6C5-3A5E67D67C5D_stringValue",
+      "value": "Link 3"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9E4221AA-F641-4316-85FE-F49BB7A043B7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1BD5AE9F-4637-41CC-AA1B-E47DE6B635D2",
+  "verticalSpacing": 0
+}

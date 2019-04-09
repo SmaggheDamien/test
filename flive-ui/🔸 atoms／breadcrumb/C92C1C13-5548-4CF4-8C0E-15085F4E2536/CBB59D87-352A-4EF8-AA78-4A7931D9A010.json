@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CBB59D87-352A-4EF8-AA78-4A7931D9A010",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "24649CD8-6AD3-4AAC-8466-56253DDD28E2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "68B3DF4C-BF9F-4DD6-8B2C-CD0102F9B48B",
+    "height": 8,
+    "width": 8,
+    "x": 32,
+    "y": 181
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icons/arrow-right/Mine shaft",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A0789EE1-BA13-46AB-B8C3-7C2483EFC74D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C0267EDA-A592-4CEF-8BDF-8272D2758EA0",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 8,
+            "enabled": 1,
+            "modelID": "constraint_d3c13fa2-4364-4dd1-b898-e3e6d329c587",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 8
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_66d95749-41ff-4163-96cc-39113db89d00",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

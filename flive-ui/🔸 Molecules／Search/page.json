@@ -1,0 +1,109 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "77267F8A-162B-450E-A4F2-A97B5F050591",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -709,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0430EED3-87D2-4A2C-8338-AC3DDFAF84B1"
+    },
+    {
+      "class": "artboard",
+      "id": "4F5381FD-8FD6-42F4-98F6-82BBDDB42CE1"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "94AFB083-778D-4B7C-81A8-8246425D7419"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "15E42D11-7C59-4792-A0E5-9ADE4FCB8BD2"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "AAA3DC55-1E02-42B2-8F16-8385FA50E854"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "BBD32CF7-CE65-4017-81E6-6F5F25277D8F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C6B6FCED-8BEC-438E-9B8D-5DEDC918D0E9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C8324538-593B-4123-8AB8-9C8C309BAF3F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "38D92360-56FD-4EE2-8FD6-79F7C333D8BF"
+    }
+  ],
+  "name": "🔸 Molecules/Search",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -480,
+    "guides": [
+    ]
+  }
+}

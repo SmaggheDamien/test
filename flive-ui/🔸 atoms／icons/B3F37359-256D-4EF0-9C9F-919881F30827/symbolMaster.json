@@ -1,0 +1,113 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2B3D6D0F-15AE-42CD-88D1-098133C3D8FD",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 283,
+  "clippingMaskMode": 0,
+  "do_objectID": "B3F37359-256D-4EF0-9C9F-919881F30827",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EDC463E3-253C-4CE2-AB55-14C77A6E6627",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4242A2BF-6E40-4D2E-87C7-BD1948D55B67",
+    "height": 16,
+    "width": 16,
+    "x": 217,
+    "y": -159
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "82794FA0-C226-4A93-B61E-3AD205889151"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "613956B1-5FD3-493E-9F91-CA4C64B3BE1F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D84E4CFB-01AD-4421-8D34-A00A6DF9880F"
+    },
+    {
+      "class": "shapePath",
+      "id": "26970B95-42BE-4259-993D-92BE4DA92ADF"
+    },
+    {
+      "class": "shapePath",
+      "id": "D656045E-F006-4617-A8A0-34CC346C5AE3"
+    },
+    {
+      "class": "shapePath",
+      "id": "E8AEC002-701A-4521-9679-5AC7AC8BB036"
+    },
+    {
+      "class": "shapePath",
+      "id": "5F0EBFCB-36EC-4946-8A61-8B2907F142A9"
+    },
+    {
+      "class": "shapePath",
+      "id": "A875BEDD-69F1-4762-9847-CC5B610368D4"
+    },
+    {
+      "class": "shapePath",
+      "id": "97B4658F-B2B6-47D4-9A83-C77213EDF18A"
+    }
+  ],
+  "name": "icons/master-filled/invoice",
+  "nameIsFixed": true,
+  "overrideProperties": [
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5D7A0C59-9555-4AC6-AE62-0E3C037CD814",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A386B07E-682F-4423-BC30-3CC265B9BF14",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0A95B9AC-749B-4C3D-867E-5603EF479A2D",
+    "guides": [
+    ]
+  }
+}

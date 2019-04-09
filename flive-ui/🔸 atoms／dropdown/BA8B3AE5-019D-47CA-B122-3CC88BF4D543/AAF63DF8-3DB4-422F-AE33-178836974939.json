@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AAF63DF8-3DB4-422F-AE33-178836974939",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4EAEEDA4-E131-4BEC-9C91-48174E0DF428",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AC6B0DDC-8BBC-4E3F-A546-5A3F91F7C4F8",
+    "height": 16,
+    "width": 240,
+    "x": 72,
+    "y": 1040
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/checkbox/unchecked",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0CEE4A1E-CD02-400B-9ED0-4C837526B5E0",
+      "overrideName": "C8803D95-B867-43CC-AD2F-25E99180C301_stringValue",
+      "value": "Mumbai"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AE44BFA5-369F-49EE-812A-7DA27B6AAED6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C5256EBC-8B29-4963-A157-C034023B4679",
+  "verticalSpacing": 0
+}

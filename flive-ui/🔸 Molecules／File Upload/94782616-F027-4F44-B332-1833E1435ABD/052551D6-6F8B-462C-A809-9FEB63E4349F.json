@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "052551D6-6F8B-462C-A809-9FEB63E4349F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C9D1A517-ACCF-4950-A217-DD98B087E7E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B259431F-212F-4FD4-AD6D-3C015CFECCEC",
+    "height": 144,
+    "width": 458,
+    "x": 48,
+    "y": 48
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/file-input",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "39F8F435-4415-4CD7-B217-7F88501028BE",
+      "overrideName": "25CB47C0-77D0-4A4C-82DA-24DEC5F7BA79_stringValue",
+      "value": "Images"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2AAA2F88-3E7F-402A-9790-93032EE7D8B9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0B4607B6-A2DE-4D89-90C2-EEA1507F4CB5",
+  "verticalSpacing": 0
+}

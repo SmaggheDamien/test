@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A3561C8A-EFCF-4B53-BD79-1FDE07A91740",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "03EF3F99-B774-4802-A962-CF742A200EFF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "000F0239-1F68-42C9-BA36-BE838A6134FE",
+    "height": 64,
+    "width": 32,
+    "x": 1,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "CAEF2CD9-289B-4DC2-B22C-DF1F4FD280D2"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "0174A3B9-D505-436E-8658-9B9BCAEB9EBE"
+    },
+    {
+      "class": "text",
+      "id": "61925B49-AF31-4554-8BF0-1BA42AB30B10"
+    }
+  ],
+  "name": "Progress-Step/current",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DA34A2DE-11C4-4571-AB60-13739F2C8BB5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

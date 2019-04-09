@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "04B9CF68-A931-4D46-9C3C-815947DE881F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "57D2CD86-C7E2-4138-885E-E0FE091F129E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1BD506D0-5D7E-4659-ABE6-42917D142EB3",
+    "height": 16,
+    "width": 240,
+    "x": 352,
+    "y": 576
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/checkbox/unchecked",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C600D7F4-FE09-43AD-9394-BA405D67A171",
+      "overrideName": "C8803D95-B867-43CC-AD2F-25E99180C301_stringValue",
+      "value": "Seville"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7406B852-362C-4708-B083-6BEBE38375B3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C5256EBC-8B29-4963-A157-C034023B4679",
+  "verticalSpacing": 0
+}

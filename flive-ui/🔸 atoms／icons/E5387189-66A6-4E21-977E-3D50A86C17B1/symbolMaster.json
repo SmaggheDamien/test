@@ -1,0 +1,194 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 598,
+  "clippingMaskMode": 0,
+  "do_objectID": "E5387189-66A6-4E21-977E-3D50A86C17B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 16,
+    "x": 448,
+    "y": 1024
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "62E86CB0-EFC9-4EFD-8B6F-82CE4A5F314C"
+    },
+    {
+      "class": "rectangle",
+      "id": "225C5890-A623-4688-8934-A5074D3900FE"
+    },
+    {
+      "class": "rectangle",
+      "id": "E9625CE2-B19A-4396-8622-0E83471A62C3"
+    },
+    {
+      "class": "rectangle",
+      "id": "CB91E521-3A16-4C4A-B8E3-E0DAFFF76EA3"
+    },
+    {
+      "class": "rectangle",
+      "id": "01E8D612-03F2-4589-BCB5-D77636B3E028"
+    },
+    {
+      "class": "rectangle",
+      "id": "7F7B5CE4-43C9-40E1-A440-82CFA720F57E"
+    },
+    {
+      "class": "rectangle",
+      "id": "1D5E1578-579E-4FEF-A655-ED491C26A365"
+    },
+    {
+      "class": "rectangle",
+      "id": "F16605C3-4DEA-4F0B-8D96-72841BF0F6B8"
+    },
+    {
+      "class": "rectangle",
+      "id": "104E4DC0-D291-426B-96C4-9F8C38AD1109"
+    },
+    {
+      "class": "rectangle",
+      "id": "04CF7E3C-DE4C-4AD6-96FB-55316019A62B"
+    },
+    {
+      "class": "rectangle",
+      "id": "BF92E7C2-1C86-4408-8E56-C894ED972330"
+    },
+    {
+      "class": "rectangle",
+      "id": "DE742710-1396-4FD5-A914-58F3AE6105B2"
+    },
+    {
+      "class": "rectangle",
+      "id": "97829C62-C7CD-470B-B236-4A8B60B0963F"
+    },
+    {
+      "class": "rectangle",
+      "id": "636880C3-1A2B-43C8-BB4F-E46704CC1BC2"
+    },
+    {
+      "class": "rectangle",
+      "id": "D056CABE-2F57-492F-92C3-08247F66E75A"
+    },
+    {
+      "class": "rectangle",
+      "id": "A2087673-D598-44FF-877D-35DDE440C02F"
+    },
+    {
+      "class": "rectangle",
+      "id": "27949E91-1163-403A-956E-4B16D308C0A4"
+    },
+    {
+      "class": "rectangle",
+      "id": "ACB071F7-081F-4470-9DF0-41760BC7406C"
+    },
+    {
+      "class": "rectangle",
+      "id": "919C1200-4C7F-438B-834E-8D54144150E0"
+    },
+    {
+      "class": "rectangle",
+      "id": "6DF9333F-7B9E-4D44-A493-935DDA5F8FA9"
+    },
+    {
+      "class": "rectangle",
+      "id": "1CE8A6FD-633D-47A9-8A00-90405587D5EC"
+    },
+    {
+      "class": "rectangle",
+      "id": "1CDFCB6A-548B-4DA5-9755-9B31D078AF16"
+    },
+    {
+      "class": "rectangle",
+      "id": "A16A4FB0-1F17-44EE-893E-7A9ABBE68CF8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "338A4122-B813-4A8C-9B3B-93C8AA8923E2"
+    },
+    {
+      "class": "rectangle",
+      "id": "39F91F66-77BC-4C9D-B446-802DE3086175"
+    },
+    {
+      "class": "rectangle",
+      "id": "FA410C41-0C9E-4478-89B5-C66670142021"
+    },
+    {
+      "class": "rectangle",
+      "id": "74FAF86F-15A2-4D50-B4AB-154BA48299C3"
+    },
+    {
+      "class": "rectangle",
+      "id": "CCD7640C-C7E8-46D2-8A66-4DBAA342BDC8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "51FAF7EE-D301-4386-9C8E-982EC47A0A36"
+    }
+  ],
+  "name": "icons/distributors-filled/Grapefruit",
+  "nameIsFixed": true,
+  "overrideProperties": [
+  ],
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1500BFBD-1BE3-4574-925E-6951BC5345E3",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

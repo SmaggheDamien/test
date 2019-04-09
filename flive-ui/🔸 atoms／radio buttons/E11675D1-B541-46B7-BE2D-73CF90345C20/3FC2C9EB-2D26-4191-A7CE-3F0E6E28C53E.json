@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3FC2C9EB-2D26-4191-A7CE-3F0E6E28C53E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AF045DC9-C70C-4E71-8A95-11FFD814CA30",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CCA5BDBD-E538-4AEC-8C68-600945573BF7",
+    "height": 97,
+    "width": 191,
+    "x": 73,
+    "y": 632
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/input/checkbox copy 8",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "28D8D3E3-A6B3-4C07-A50D-9505BAFC864A",
+      "overrideName": "4CDA761F-F123-4CEA-B09E-B6E7CD052E93_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6DBC348-35CF-4AB3-B436-829CADECFF77",
+      "overrideName": "16A2F4F8-D608-41D9-9BF8-2FADF07F0BB1_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1A7DCD53-6C5E-40A2-8F55-A9E645D7539D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ADB6734A-171D-4A1C-97E3-FB1C46D3B85A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

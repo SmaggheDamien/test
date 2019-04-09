@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "697956ED-CC80-4BB0-8CC4-BA17487B8339",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1E76E350-8573-4B7D-A6E9-41E5771B8DAB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A334DB6C-93D6-42DA-A93D-6233337DDF81",
+    "height": 97,
+    "width": 191,
+    "x": 49,
+    "y": 48
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/input/checkbox copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8A2792B2-420B-45CC-BBF3-C93542997717",
+      "overrideName": "257A2F10-7603-44F4-9DAB-EDE8B8D1CE8A_symbolID",
+      "value": "286224A3-B074-4718-BF2A-4FC81DF159B3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "37643DB8-897E-4FD1-AE32-74429FE27DA2",
+      "overrideName": "257A2F10-7603-44F4-9DAB-EDE8B8D1CE8A/A67AF217-A5D6-47BB-89BC-26B20D5559E9_stringValue",
+      "value": "Male"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34B35E0C-20B2-4BC8-9238-AA6BCFE73F0F",
+      "overrideName": "E6EFC397-DB69-4DE9-9FEF-FDDA3F3BA689_textStyle",
+      "value": "3740A968-9718-442D-B3C9-E21DBBAF8796"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "02F239A4-1189-40A3-AE87-45BE7CEDE107",
+      "overrideName": "E6EFC397-DB69-4DE9-9FEF-FDDA3F3BA689_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6A0EE0D4-8520-400A-BE7B-1B900F6E0083",
+      "overrideName": "EDCA7EC7-E167-4796-A074-80C674979DE0_stringValue",
+      "value": "Gender"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "442D339B-E969-42A1-9A29-409A37F6301F",
+      "overrideName": "DC2AC7F6-F293-49E7-8158-6E81F1A3D0CC/A67AF217-A5D6-47BB-89BC-26B20D5559E9_stringValue",
+      "value": "Female"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EE4B813F-5FC3-41EB-B493-4CB7AF8918D7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "34121B49-F5B6-479D-AB0D-2600E2A91A90",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

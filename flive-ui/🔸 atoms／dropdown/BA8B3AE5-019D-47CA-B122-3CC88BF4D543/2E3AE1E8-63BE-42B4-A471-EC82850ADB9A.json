@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2E3AE1E8-63BE-42B4-A471-EC82850ADB9A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DFF554C7-5F6A-4357-8348-DBA4DF4A7B2B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F321287F-CF9F-420B-B969-782F7A295D64",
+    "height": 24,
+    "width": 88,
+    "x": 726,
+    "y": 664
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/chips",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D52468CD-EE4F-4619-8E7C-0E81D25F4D43",
+      "overrideName": "723C80E6-8028-4BC4-A6E1-64EF410E5DC4_stringValue",
+      "value": "Melbourne"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA724CE5-D661-4FBA-80DC-25A98C2AD276",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "48E747D3-A9A0-4233-A716-0C98D0E203D4",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,156 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "523D7E29-D4AA-48BB-8317-0E9D73DC32BF",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 29695,
+  "clippingMaskMode": 0,
+  "do_objectID": "4C996EFD-699B-430A-BF32-D7E9D3BC6AAF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D996E896-AB94-45FB-B5F6-07A740B6EFA5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9524561C-16A8-411F-9796-2B2AFCF22063",
+    "height": 336,
+    "width": 456,
+    "x": 963,
+    "y": 499
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "35511105-477B-41BE-A2E3-BFA9B853678A",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 3
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "56984D3F-9094-4145-8EC9-3F6F58813BC8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "92AA6B7F-C22A-49AE-8CEF-621C4565DFEE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "34B32B75-F69E-4FF6-896B-0FAE00662581"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8A3A244F-0A4A-43CA-8386-AB64A4F53C4C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C42C1DFB-6441-4D0A-8E66-DE8A87817E80"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85F8403F-3320-45EB-B299-05A04AB55E40"
+    },
+    {
+      "class": "text",
+      "id": "786B4183-41C4-495B-A6AD-EE3C34A90463"
+    }
+  ],
+  "name": "form/file-input-4-images copy",
+  "nameIsFixed": true,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "786B4183-41C4-495B-A6AD-EE3C34A90463_textStyle"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C42C1DFB-6441-4D0A-8E66-DE8A87817E80_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "85F8403F-3320-45EB-B299-05A04AB55E40_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "34B32B75-F69E-4FF6-896B-0FAE00662581_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "92AA6B7F-C22A-49AE-8CEF-621C4565DFEE_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "8A3A244F-0A4A-43CA-8386-AB64A4F53C4C_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "786B4183-41C4-495B-A6AD-EE3C34A90463_stringValue"
+    }
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D647018-670B-4A37-87FD-5EF00FFF15BA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FE3FA2C0-82B2-4A43-AC1B-4A4D9A3DCF57",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C453E2CB-42B5-40C6-9995-F71B5461906C",
+    "guides": [
+    ]
+  }
+}

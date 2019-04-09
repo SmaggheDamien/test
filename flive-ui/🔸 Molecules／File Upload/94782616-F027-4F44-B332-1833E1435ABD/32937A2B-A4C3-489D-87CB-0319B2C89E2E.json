@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "32937A2B-A4C3-489D-87CB-0319B2C89E2E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9A4AC8AC-3245-4185-BE42-A9ED897CC902",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "579822C2-C2DF-4761-AF2A-1F5BA34E013C",
+    "height": 121,
+    "width": 458,
+    "x": 48,
+    "y": 1904
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/drop-zone",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 34,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B615DD8B-3DD3-4411-B790-F256F202E881",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BED0B362-248D-4F48-AE1B-2FA698ACBD70",
+  "verticalSpacing": 0
+}

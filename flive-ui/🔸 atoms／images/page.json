@@ -1,0 +1,112 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "56BD3826-8A97-4F43-B882-A74307C1EFAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": true,
+    "thickGridTimes": 10
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -645,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "0A67BC1B-3B70-4607-A093-767F51CAFE47"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "CD71DDD3-0D67-4989-B3CC-DE8B8DB91B09"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0B12CB7D-2A9C-43C9-BA1D-363DA5A95668"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "36103C96-C218-4E8B-9A87-6DFB225F1FE8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9E977CEB-5D50-4D25-A768-238A614B81DF"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8125F744-03DE-4036-B156-255CE69B5B7B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D0D62E41-37D6-4381-838A-3C4A3322ABF2"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "659848A4-3457-473A-BEAD-E4F8695494B3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8AA2A97F-F17E-4DCB-A6C3-8706BB1AFE82"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E4916F6D-510C-4A1A-80AE-0BFD3B5034BA"
+    },
+    {
+      "class": "text",
+      "id": "564AA6AF-E4DF-4A65-9BA2-2F96F9961F08"
+    }
+  ],
+  "name": "🔸 atoms/images",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -480,
+    "guides": [
+    ]
+  }
+}

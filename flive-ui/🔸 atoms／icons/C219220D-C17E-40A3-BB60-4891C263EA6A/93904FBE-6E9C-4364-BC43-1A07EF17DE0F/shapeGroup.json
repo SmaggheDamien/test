@@ -1,0 +1,124 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "93904FBE-6E9C-4364-BC43-1A07EF17DE0F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B0EB493B-355B-447E-94C3-49F8B7D87FE8"
+    },
+    {
+      "class": "shapePath",
+      "id": "041A11EE-1AF3-4CE0-91EB-859C301DB21F"
+    },
+    {
+      "class": "shapePath",
+      "id": "72A954B1-D61D-4068-AF84-E6DDFF72B481"
+    },
+    {
+      "class": "shapePath",
+      "id": "B7E606E2-680B-4C72-8EC9-E8A9C125B3E7"
+    },
+    {
+      "class": "shapePath",
+      "id": "3D1A0B8F-B673-40B4-A3C3-DD1AF2940667"
+    },
+    {
+      "class": "shapePath",
+      "id": "5EC6DEA7-7E16-4207-BED0-776AA5E2969E"
+    },
+    {
+      "class": "shapePath",
+      "id": "3A6FE29F-4CDC-4CC0-A46A-01D62870D8A5"
+    },
+    {
+      "class": "shapePath",
+      "id": "251B46BC-D2CC-42B5-8AE4-46135F2C666D"
+    },
+    {
+      "class": "shapePath",
+      "id": "05BB2525-643C-4F91-90B8-B06DA0AC312F"
+    },
+    {
+      "class": "shapePath",
+      "id": "ABFB22FC-9942-4ECA-8568-F9FF74BCC73C"
+    },
+    {
+      "class": "shapePath",
+      "id": "3095BC7C-60D7-4F98-97C0-1021929252B3"
+    },
+    {
+      "class": "shapePath",
+      "id": "E2469425-E9DD-4BAC-B702-84C54F48DB49"
+    },
+    {
+      "class": "shapePath",
+      "id": "CC30FF0E-D9AE-4901-A524-60B1FB932078"
+    },
+    {
+      "class": "shapePath",
+      "id": "EC096EEF-06A6-4417-8D3A-3EC5B0559688"
+    }
+  ],
+  "name": "Tracé_1855",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.1411764705882353,
+          "red": 0.5019607843137255
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

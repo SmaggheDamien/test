@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CAF53F39-F1EA-49EC-9B42-D188606704F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "914A310C-FC7E-4825-9127-8CAD93A43057",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC1AD2C7-DB30-4BD5-A47E-D1D6C316BA21",
+    "height": 16,
+    "width": 384,
+    "x": 48,
+    "y": 360
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Item 3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "47DEC1B0-7A49-477F-A767-8B6E6E4D05B8",
+      "overrideName": "C8803D95-B867-43CC-AD2F-25E99180C301_stringValue",
+      "value": "Kiwi"
+    }
+  ],
+  "resizingConstraint": 10,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BC18CF9B-2FE6-47CC-8663-62AD7F58FC84",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C5256EBC-8B29-4963-A157-C034023B4679",
+  "verticalSpacing": 0
+}

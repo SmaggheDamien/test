@@ -1,0 +1,132 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "00C7F50A-EDB3-42EA-9E3F-106648D60DEE",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FF1F14F1-E8CD-45B5-9111-6F8170CEBA63",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "30BE19C9-0FE3-4407-BE49-97F558A2FACB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E7E093A4-870B-440A-B65F-9907D44D4C9B",
+    "height": 1024,
+    "width": 768,
+    "x": -201,
+    "y": 291
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "4DA58B54-9B89-49D1-975F-7200FD71BB37",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 3
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "081956B7-C46C-45B6-956A-B8FBF877BDCE"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F0DBB1FA-02A9-4372-B829-CF240E70DFA7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8A85E9F1-58E3-459F-A141-BDAE59CBD30F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3312D483-E5DA-481F-8A29-63160CD28688"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "902BFA31-C2FB-4FDC-A1F1-C72C066DC9AA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C7905E6-068D-4EE9-8C97-1491740D2292"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BB63E106-BBCE-479B-83DE-D7D7A827D1EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4196D625-4BA7-4CB0-A230-ACDF4060AC11"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A9213C2-5C86-4448-B0D1-B144C743AC7E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0EC85A7-4191-45E1-AD37-467A9E171CA3"
+    }
+  ],
+  "name": "Form example",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B4C16453-5634-414E-BE8F-8CF068FBBED7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D5A0098D-9688-411B-8CA8-2647CCA7689A",
+    "guides": [
+    ]
+  }
+}

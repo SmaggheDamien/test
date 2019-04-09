@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "62675F96-D18B-4F78-8E25-EAC93B65027A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8783FE0D-0DD8-4065-9146-04283A9DC7C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FE96CD66-FDB7-4006-9343-2F504F7F9F83",
+    "height": 97,
+    "width": 264,
+    "x": 336,
+    "y": 384
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/input/checkbox copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1F186932-B52C-4A80-A4F0-4207F4887CB5",
+      "overrideName": "DC2AC7F6-F293-49E7-8158-6E81F1A3D0CC/A67AF217-A5D6-47BB-89BC-26B20D5559E9_stringValue",
+      "value": "Landscape"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59AD7E7D-294B-4ECC-A4BD-C3CE649FC86E",
+      "overrideName": "E6EFC397-DB69-4DE9-9FEF-FDDA3F3BA689_textStyle",
+      "value": "3740A968-9718-442D-B3C9-E21DBBAF8796"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F60A144-2BFA-440E-AE0B-50B59699E3D7",
+      "overrideName": "E6EFC397-DB69-4DE9-9FEF-FDDA3F3BA689_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "451D69DB-C402-407D-A108-00C2A9A6372E",
+      "overrideName": "EDCA7EC7-E167-4796-A074-80C674979DE0_stringValue",
+      "value": "Orientation"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D8493606-01EB-4672-A3B6-1144235ADB6B",
+      "overrideName": "257A2F10-7603-44F4-9DAB-EDE8B8D1CE8A/E6EBC83D-343E-468E-BEB1-14A5AD60C4B1_stringValue",
+      "value": "Portrait"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9CED0DE5-AC75-4004-A3CD-03D229A69674",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "34121B49-F5B6-479D-AB0D-2600E2A91A90",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

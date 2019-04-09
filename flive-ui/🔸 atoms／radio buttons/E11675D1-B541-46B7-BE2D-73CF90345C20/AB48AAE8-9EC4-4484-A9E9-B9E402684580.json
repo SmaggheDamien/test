@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AB48AAE8-9EC4-4484-A9E9-B9E402684580",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E05D43B-4CCA-428D-B57E-1DD489C18EF8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "70D253A2-5146-4AFB-8FBA-EDC6946F3187",
+    "height": 50,
+    "width": 480,
+    "x": 48,
+    "y": 984
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/input/checkbox copy 11",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1FF4E272-5BB0-4D3E-91D7-07D7643CC04A",
+      "overrideName": "B03ED66A-6CAE-45DE-9B53-7DEBC35CD08E/81641272-7E97-4A8D-94D6-C04AF62B9C4D_stringValue",
+      "value": "Yes, please use e-mail to send me information about other offerings."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2B5231B6-CF93-4BE0-B96F-312C9E3CA9F4",
+      "overrideName": "269908B4-0570-459F-B803-1D286A46758F_stringValue",
+      "value": "May we send you updates using e-mail?"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2695A24-10D8-4C8A-A5E5-3965D85F5699",
+      "overrideName": "8CD07120-DB85-4762-BB21-346A00F5F876_textStyle",
+      "value": "3740A968-9718-442D-B3C9-E21DBBAF8796"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F083BE86-0E63-4B6F-A8F0-B7569594A67D",
+      "overrideName": "8CD07120-DB85-4762-BB21-346A00F5F876_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "90B90BFA-FEBC-46EB-9E12-85724D9723DC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "03D1A55C-EEA9-444B-BF1D-861E625AF83A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

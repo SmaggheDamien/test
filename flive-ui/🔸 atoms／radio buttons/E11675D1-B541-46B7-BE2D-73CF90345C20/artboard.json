@@ -1,0 +1,176 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E7E7700F-F005-4271-8162-DE21509B6579",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E11675D1-B541-46B7-BE2D-73CF90345C20",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "507E87EC-B5F4-4434-B527-D463C03BA5A3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "24236DFC-2255-45D4-9738-81B6E22EB747",
+    "height": 1096,
+    "width": 768,
+    "x": 3294,
+    "y": 186
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "89DD3153-8C33-4F03-8B02-3C2B0CBD04D7",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 3
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "4B547623-48E5-4F30-8B2D-3199E7F636C1"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8DF4B07D-1F81-445B-870D-6CA01BBDD94C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "697956ED-CC80-4BB0-8CC4-BA17487B8339"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BDFA8622-E9B7-4BCC-B2F5-DB4C582B9318"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3FC2C9EB-2D26-4191-A7CE-3F0E6E28C53E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6683A695-1B21-4CB4-8F55-B439FBC854C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62675F96-D18B-4F78-8E25-EAC93B65027A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F7C8940F-CC45-47BD-BDAE-463D5B0B4C67"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AB48AAE8-9EC4-4484-A9E9-B9E402684580"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "41AB7378-0CF3-4942-86C5-F63372D159BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3FE9461-91A4-4985-B3CA-D22073FF1F67"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "81AD8A9B-7A6A-452F-B768-ACEDF8F04E2B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "16CA4067-206E-4290-AB15-A774D72149B2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F243E530-1112-4E5E-8186-BAA641BDA001"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1C280A38-9BEE-4670-BF9B-C28023CDDBC4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "44AFC035-08CC-4A39-A2B8-2663C73E07B8"
+    },
+    {
+      "class": "shapePath",
+      "id": "521DF7C2-52E5-446B-B3C4-93301DD5E1B2"
+    },
+    {
+      "class": "shapePath",
+      "id": "0F136D99-70CC-4CA2-8606-1D0DB3A5DB2F"
+    },
+    {
+      "class": "shapePath",
+      "id": "3E334792-DF49-4598-ABAC-B30153F43100"
+    },
+    {
+      "class": "shapePath",
+      "id": "748AAC8C-C9AE-4A4D-8E7F-D398D62CD041"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D808EFD-2950-4693-83F0-01FD5D85C09A"
+    }
+  ],
+  "name": "Radio button best practices",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "iPad",
+    "offersLandscapeVariant": 1,
+    "width": 768
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9F333BD5-79FA-4CBC-AEC3-73A4A0AAE33A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D75942F0-6024-4222-AFD6-BB8ED42AA753",
+    "guides": [
+    ]
+  }
+}

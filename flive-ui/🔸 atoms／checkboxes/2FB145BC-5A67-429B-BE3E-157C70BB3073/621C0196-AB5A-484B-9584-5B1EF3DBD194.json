@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "621C0196-AB5A-484B-9584-5B1EF3DBD194",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BE38CE32-D41D-4D7E-84CB-54E89C626644",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C0AB829C-CF15-4261-9C1F-E33CBEC33C0B",
+    "height": 40,
+    "width": 240,
+    "x": 48,
+    "y": 456
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/primary copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D1F157E4-465D-40E8-A18E-989EC97C18F2",
+      "overrideName": "72827ADE-F559-4E86-A214-4A61F499C72B_stringValue",
+      "value": "Prepare the smoothie"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "292B44CC-FD58-47D8-8219-080B37B371D2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C2E2B829-BB53-4815-8AC1-4844CE9E209D",
+  "verticalSpacing": 0
+}

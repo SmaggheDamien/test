@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "093BB909-4E5B-4B9A-9F4C-53FEA004BEB2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E4BAC231-23B3-45AF-8E4B-FD745667B8A5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "28FFBFC6-5299-4F5A-920C-3D8E73884F89",
+    "height": 144,
+    "width": 458,
+    "x": 48,
+    "y": 432
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "form/file-input copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D341ECFE-1B9A-4597-835E-C153A20A687F",
+      "overrideName": "2AAE00F6-8260-471B-928A-38336243E83A_symbolID",
+      "value": "F559E60D-21E3-4B0D-99F7-CE4ACC41200F"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "33659086-0B4F-4D4C-83EB-3ECBA9933A5E",
+      "overrideName": "25CB47C0-77D0-4A4C-82DA-24DEC5F7BA79_stringValue",
+      "value": "Files"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4ACF7DE0-CE7F-41DF-B7B0-8275EA98B46F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0B4607B6-A2DE-4D89-90C2-EEA1507F4CB5",
+  "verticalSpacing": 0
+}

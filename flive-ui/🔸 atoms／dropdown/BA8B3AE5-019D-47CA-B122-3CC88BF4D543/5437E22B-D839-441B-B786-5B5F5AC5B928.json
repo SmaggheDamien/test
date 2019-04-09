@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5437E22B-D839-441B-B786-5B5F5AC5B928",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7A8109BC-47BD-45ED-AE07-D75B23A5B8E0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "77276449-191F-4AF1-BE44-41D5412C559C",
+    "height": 24,
+    "width": 76,
+    "x": 352,
+    "y": 664
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/chips",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D52468CD-EE4F-4619-8E7C-0E81D25F4D43",
+      "overrideName": "723C80E6-8028-4BC4-A6E1-64EF410E5DC4_stringValue",
+      "value": "Madison"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9184FA2D-8791-485E-B34E-B81D7E7427B7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "48E747D3-A9A0-4233-A716-0C98D0E203D4",
+  "verticalSpacing": 0
+}
